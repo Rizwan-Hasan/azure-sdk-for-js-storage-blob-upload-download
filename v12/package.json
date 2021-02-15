@@ -9,9 +9,9 @@
   "author": "Craig Shoemaker <craig@craigshoemaker.net>",
   "license": "MIT",
   "dependencies": {
-    "@azure/abort-controller": "^1.0.0",
-    "@azure/storage-blob": "^12.0.0",
-    "@types/dotenv": "^4.0.3",
-    "dotenv": "^6.2.0"
+    "@azure/abort-controller": "^1.0.2",
+    "@azure/storage-blob": "^12.4.1",
+    "@types/dotenv": "^6.1.1",
+    "dotenv": "^8.2.0"
   }
 }
